@@ -50,7 +50,7 @@ public class JDBCInsertTest {
 			} catch (SQLException e) {
 				e.printStackTrace();
 			}
-		}
+		} 
 
 	}
 }
